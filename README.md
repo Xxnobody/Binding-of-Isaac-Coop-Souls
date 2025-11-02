@@ -1,3 +1,3 @@
 # Binding-of-Isaac-Coop-Souls
 
-![Alt text](Coop-Logo (Clear).png?raw=true "")
+![Alt text](Coop-Logo%20(Clear).png?raw=true "")
